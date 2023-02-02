@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Spring-Quckstart-Pack.iml" filepath="$PROJECT_DIR$/.idea/Spring-Quckstart-Pack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringWeb/SpringWeb.iml" filepath="$PROJECT_DIR$/SpringWeb/SpringWeb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Thymeleaf -Springboot/Thymeleaf -Springboot.iml" filepath="$PROJECT_DIR$/Thymeleaf -Springboot/Thymeleaf -Springboot.iml" />
+    </modules>
+  </component>
+</project>
